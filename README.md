@@ -1,2 +1,2 @@
-# Sandbox projects ofr interviews
+# Sandbox projects for interviews
 This repository contains a lot of boilerplate projects, so whenever I'm going to take a new interview I can just have a sandbox to run them in.

@@ -1,9 +1,3 @@
-function sayMyName(name: string): void {
-  if (name === "Heisenberg") {
-    console.log("You're right 👍");
-  } else {
-    console.log("You're wrong 👎");
-  }
+export default function say(word: string): string {
+  return word
 }
-
-sayMyName("Heisenberg");
